@@ -1,0 +1,2 @@
+Vagas de emprego específicas para a linguagem de programação Crystal são extremamente raras no Brasil e no mundo, pois a linguagem possui um nicho pequeno de adoção comercial.
+Porém no forum da linguagem encontramos informações sobre vagas que usam Crystal proxima ao Ruby, com uma faixa salarial de U$90k - U$130k/yr
